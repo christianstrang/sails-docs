@@ -3,7 +3,7 @@
 Get the version of your computer's _globally_ installed Sails command-line tool (i.e. the version you installed with `npm install -g sails`).
 
 ```usage
-sails version
+sails -version
 ```
 
 ### Example
